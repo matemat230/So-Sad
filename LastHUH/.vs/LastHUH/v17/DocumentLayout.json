@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AMD\u0435\u0448\u043D\u0438\u043A\\source\\repos\\LastHUH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA55953-681E-4940-A707-2710EC08A09A}|LastHUH\\LastHUH.csproj|c:\\users\\amd\u0435\u0448\u043D\u0438\u043A\\source\\repos\\lasthuh\\lasthuh\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA55953-681E-4940-A707-2710EC08A09A}|LastHUH\\LastHUH.csproj|solutionrelative:lasthuh\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA55953-681E-4940-A707-2710EC08A09A}|LastHUH\\LastHUH.csproj|c:\\users\\amd\u0435\u0448\u043D\u0438\u043A\\source\\repos\\lasthuh\\lasthuh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA55953-681E-4940-A707-2710EC08A09A}|LastHUH\\LastHUH.csproj|solutionrelative:lasthuh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\AMD\u0435\u0448\u043D\u0438\u043A\\source\\repos\\LastHUH\\LastHUH\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LastHUH\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\AMD\u0435\u0448\u043D\u0438\u043A\\source\\repos\\LastHUH\\LastHUH\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LastHUH\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:55:11.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AMD\u0435\u0448\u043D\u0438\u043A\\source\\repos\\LastHUH\\LastHUH\\Program.cs",
+              "RelativeDocumentMoniker": "LastHUH\\Program.cs",
+              "ToolTip": "C:\\Users\\AMD\u0435\u0448\u043D\u0438\u043A\\source\\repos\\LastHUH\\LastHUH\\Program.cs",
+              "RelativeToolTip": "LastHUH\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:53:50.994Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
